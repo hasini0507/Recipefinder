@@ -25,7 +25,7 @@ A simple recipe finder web app built with **Vite, React, and Tailwind CSS**, usi
 ## 🚀 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pkpotter03/recipe-finder.git
+   git clone https://github.com/hasini0507/recipe-finder.git
    cd recipe-finder
    ```
 
