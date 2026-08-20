@@ -3,7 +3,7 @@
 A simple recipe finder web app built with **Vite, React, and Tailwind CSS**, using **TheMealDB API** to fetch recipes based on user-input ingredients. Users can search for recipes, explore random suggestions, and view detailed recipe information, including ingredients and instructions.
 
 ## 🚀 Live Demo
-[https://recipe-finder-pkpotter03.vercel.app/](#)
+[https://recipefinder-mu-three.vercel.app/](#)
 
 ---
 
